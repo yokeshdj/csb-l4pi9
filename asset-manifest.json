@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yokeshdj.github.io/csb-l4pi9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yokeshdj.github.io/csb-l4pi9/static/js/main.1d78f337.chunk.js",
+    "main.js.map": "https://yokeshdj.github.io/csb-l4pi9/static/js/main.1d78f337.chunk.js.map",
+    "runtime-main.js": "https://yokeshdj.github.io/csb-l4pi9/static/js/runtime-main.b21fb65b.js",
+    "runtime-main.js.map": "https://yokeshdj.github.io/csb-l4pi9/static/js/runtime-main.b21fb65b.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://yokeshdj.github.io/csb-l4pi9/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://yokeshdj.github.io/csb-l4pi9/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://yokeshdj.github.io/csb-l4pi9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yokeshdj.github.io/csb-l4pi9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://yokeshdj.github.io/csb-l4pi9/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b21fb65b.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1d78f337.chunk.js"
+  ]
+}
